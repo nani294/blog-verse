@@ -1,4 +1,4 @@
-/*
+
 let marks=85
 if(marks>=90)
  {
@@ -70,7 +70,7 @@ for(key in person)
 {
     console.log(`${key}:${person[key]}`)
 }
-*/
+
 
 for(let i=5;i>=0;i--)
 {
@@ -83,6 +83,7 @@ for(let i=5;i>=0;i--)
   break
  }
 }
+
 
 
 
